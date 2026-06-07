@@ -1,0 +1,5 @@
+# Die Anwendung selbst braucht KEINE externen Pakete – sie nutzt nur die
+# Python-Standardbibliothek (inkl. tkinter).
+#
+# Folgendes wird nur benötigt, um eine .exe zu erzeugen:
+pyinstaller>=6.0

@@ -18,3 +18,14 @@ Release/
 
 # Lokale Wiki-Konfiguration (Pfad zum Datenordner)
 wiki.config
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# PyInstaller-Build-Artefakte
+build/
+dist/
+*.spec
