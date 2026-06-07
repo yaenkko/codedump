@@ -1,0 +1,20 @@
+# .NET / Visual Studio Build-Artefakte
+bin/
+obj/
+.vs/
+*.user
+
+# Build-Ausgaben (alte C++-Projekte)
+x64/
+Debug/
+Release/
+*.ilk
+*.pdb
+*.obj
+*.idb
+*.exe.recipe
+*.tlog/
+*.log
+
+# Lokale Wiki-Konfiguration (Pfad zum Datenordner)
+wiki.config
